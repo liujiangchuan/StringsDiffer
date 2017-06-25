@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">StringsDiffer</string>
+    <string name="old_file_path">旧文件路径: </string>
+    <string name="new_file_path">新文件路径: </string>
+    <string name="choose">选择</string>
+    <string name="start_diff">开始比对</string>
+    <string name="diff_result_success">导出成功！请在%s路径下查看结果！</string>
+    <string name="sheet_add">新增</string>
+    <string name="sheet_delete">删除</string>
+    <string name="sheet_update">修改</string>
+    <string name="export_failed">导出失败！无法获取文件保存路径！</string>
+    <string name="choose_file">选择文件</string>
+    <string name="last_step">上一级</string>
+</resources>

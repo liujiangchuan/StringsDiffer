@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="h1">28dp</dimen>
+    <dimen name="h2">25dp</dimen>
+    <dimen name="h3">22dp</dimen>
+    <dimen name="h4">20dp</dimen>
+    <dimen name="h5">18dp</dimen>
+    <dimen name="h6">16dp</dimen>
+    <dimen name="h7">14dp</dimen>
+    <dimen name="h8">12dp</dimen>
+    <dimen name="h9">10dp</dimen>
+</resources>
